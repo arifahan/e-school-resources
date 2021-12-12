@@ -1,0 +1,17 @@
+.btn-all{
+    padding: 5px 25px;
+    border-radius: 33px;
+    border: none;
+    background-color: #21B573;
+    color: #fff;
+}
+.section-navber img {
+    height: 80px;
+}
+.section-navber {
+    background: #F0FFF0;
+    width: 1440px !important;
+}
+.hero-area {
+    background: #F0FFF0;
+}
