@@ -14,4 +14,20 @@
 }
 .hero-area {
     background: #F0FFF0;
+    padding-top: 30px;
+}
+.card img {
+    height: 85px;
+    width: 66px;
+}
+.card {
+    height: 270px;
+    width: 270px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+.card:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
