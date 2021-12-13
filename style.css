@@ -33,4 +33,10 @@
 }
 .online-courses {
     margin-top: 100px;
+    margin-bottom: 10px;
+}
+.footer-area{
+    height: 369px;
+    background-color: #282531;
+    color: #fff;
 }
